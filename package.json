@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/leodebbia/test_npm.git"
   },
-  "author": "Debbia",
+  "author": "leodebbia",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/leodebbia/test_npm/issues"
